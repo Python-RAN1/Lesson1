@@ -1,0 +1,6 @@
+{
+  "site_info": "~/upgrade/script/NR_sitelist.txt",
+  "commands": "~/upgrade/script/G2_HC.mos",
+  "log_path": "./logs",
+  "log_split_path": "./log_split"
+}
